@@ -16,6 +16,5 @@ I'm a passionate and motivated junior full stack developer specializing in C#, .
 
 ### Find me around the web:
 - 💼 Connecting and networking on [LinkedIn](https://www.linkedin.com/in/georgi-shipochki-46503525b/)
-- 🌐 Sharing updates and projects on [GitHub](https://github.com/Shipochki)
 
 I'm excited to contribute my abilities and collaborate on interesting projects. Let's connect and create exceptional web applications together!
